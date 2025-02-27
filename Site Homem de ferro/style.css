@@ -1,0 +1,20 @@
+body{
+    margin:0px;
+    padding: 0px;
+    background-color: blanchedalmond;
+    color: rgb(204, 47, 47);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#navbar{
+    margin:0px;
+    padding:5px;
+    background-color: bisque;
+    color: rgb(229, 160, 160);
+    display:flex;
+}
+
+.historia{
+    background-color: brown;
+    color: rgb(248, 186, 186);
+}
