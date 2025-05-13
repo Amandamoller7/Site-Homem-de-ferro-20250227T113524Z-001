@@ -9,3 +9,13 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
 }
+.navbar img{
+    width: 150px;
+    height: 100px;
+}
+.historias{
+    background-color: brown;
+    color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+}
