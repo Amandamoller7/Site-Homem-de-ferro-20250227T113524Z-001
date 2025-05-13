@@ -6,12 +6,16 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-#navbar{
+.navbar{
     margin:0px;
     padding:5px;
     background-color: bisque;
     color: rgb(229, 160, 160);
     display:flex;
+}
+.navebar img{
+    height:50px;
+    width:50px;
 }
 
 .historia{
