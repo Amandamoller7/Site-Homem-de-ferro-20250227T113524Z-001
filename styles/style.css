@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+    color: rgb(97, 91, 91);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar{
+    background-color: brown;
+    color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+}
