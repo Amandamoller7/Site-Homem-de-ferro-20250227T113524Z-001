@@ -14,7 +14,7 @@ body{
     height: 100px;
 }
 .historias{
-    background-color: brown;
+    background-color: rgb(208, 83, 83);
     color: antiquewhite;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
